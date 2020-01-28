@@ -19,7 +19,7 @@ logging.basicConfig(format='%(asctime)s - %(message)s',
 #### /print debug information to stdout
 
 # Read the dataset
-model_name = 'bert-base-nli-mean-tokens'
+model_name = 'bert-base-nli-stsb-mean-tokens'
 train_batch_size = 16
 num_epochs = 4
 
